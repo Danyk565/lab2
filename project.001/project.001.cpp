@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
-int max(int a, int b) {
-	int max=0;
+double max(double a, double b) {
+	double max=0;
 	if (a > b)
 		max = a;
 	else
@@ -11,7 +11,7 @@ int max(int a, int b) {
 int main()
 {
 	cout << "Enter A and B: ";
-	int a, b;
+	double a, b;
 	cin >> a >> b;
 	cout << "A+B= " << a + b << '\n';
 	cout << "A-B= " << a - b << '\n';
