@@ -1,3 +1,5 @@
 ﻿  project.001.cpp
-  LINK : не найден или не выполнена сборка C:\Users\User\Desktop\lab2\alice\project\x64\Debug\project.001.exe при последней инкрементной компоновке; выполняется полная компоновка
-  project.001.vcxproj -> C:\Users\User\Desktop\lab2\alice\project\x64\Debug\project.001.exe
+C:\Users\User\Desktop\lab2\bob\project\project.001\project.001.cpp(15,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\lab2\bob\project\project.001\project.001.cpp(17,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  LINK : не найден или не выполнена сборка C:\Users\User\Desktop\lab2\bob\project\x64\Debug\project.001.exe при последней инкрементной компоновке; выполняется полная компоновка
+  project.001.vcxproj -> C:\Users\User\Desktop\lab2\bob\project\x64\Debug\project.001.exe
